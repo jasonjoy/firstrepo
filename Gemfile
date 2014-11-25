@@ -1,5 +1,9 @@
 source 'https://rubygems.org'
 
+# Twitter Bootstrap 3 gems added in Lesson 7
+gem 'bootstrap-sass', '~> 3.3.0'
+gem 'autoprefixer-rails'
+
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.1'
 
